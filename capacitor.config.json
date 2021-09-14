@@ -1,0 +1,6 @@
+{
+    "appId": "org.carato.wallet",
+    "appName": "Carato Wallet",
+    "webDir": "dist",
+    "bundledWebRuntime": false
+}
